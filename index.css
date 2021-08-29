@@ -18,3 +18,11 @@ body{
     color: #73F773;
     margin: 0 auto;
 }
+  @media only screen and (min-width:0px) and (max-width: 480px){
+     .clock-wrapper{
+         width: 90%;
+         max-width: 100%;
+     }
+     #clock{
+     width:100%;
+     }
